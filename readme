@@ -1,0 +1,4 @@
+pmdarima
+1. autoregressive modeling parameters p and q are set for 1 due to
+nature of financial timeseries (memory of previous)
+2.
